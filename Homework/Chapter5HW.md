@@ -1,12 +1,13 @@
-# Discussion Questions Ch.5
-## Deniqtrius Curry
+# Discussion Questions
+## Denqitrius Curry
 ### March 5, 2018
 
-1.  An exception is an attempt to deal with an unexpented circumstance that may arive during a program . 
-1. Then the program executes as expected and runs . 
-1. The program will be terminated . 
-1. The prgram stops running .
-1. The parent class for all exceptions is System.Exception .
-1. By writing  a method that prints the error to the screen .
-1. To make sure that your hadnling the right type of variable .
-1. By using a finally block, you can clean up any resources that are allocated in a try block, and you can run code even if an exception occurs in the try block.
+1. A compund assignment operator takes one assignment operator and one mathmatical operator an assigns the value to the variable.
+1.   =, +=, -= , *= , /= , %= , &= , |=,<<=
+1. (i++ == 5) , (--1== 50)
+1. untill the expression returns back false.
+1. The loop will run untill 
+1. 3 parts, intializiztion a test and an updater , yes you can omit them and if you doont have a test you have an inifinite loop. 
+1.   You use a do while loop and that always runs atleast once .
+1.  it can be used to jump out of the body in addition used to jump out of a switch statement .
+1. A continue statement causses the program to skip the line of code its on while the break statement jumps completely out of the code.
